@@ -1,6 +1,8 @@
 
 # web3-hospital-storage
 
+
+
 📦 `web3-hospital-storage` is a project developed as part of my research on decentralized storage for electronic medical records (EMR) using **Blockchain**, **IPFS**, and **Smart Contracts**.
 
 ## 🧠 Project Goals
@@ -20,7 +22,7 @@ Upload to IPFS (via Pinata API)
      ↓
 Store CID on Ethereum (Smart Contract)
     
-![image](https://github.com/user-attachments/assets/1188c6e4-8818-4b5f-ac81-911991208b42)
+
 
 ⚙️ Technologies Used
 ⚛️ React (Frontend)
