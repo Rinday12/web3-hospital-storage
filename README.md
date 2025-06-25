@@ -15,7 +15,7 @@ This project aims to:
 
 ## 🏗️ System Architecture
 
-```plaintext
+
 Frontend (React)
      ↓
 Upload to IPFS (via Pinata API)
